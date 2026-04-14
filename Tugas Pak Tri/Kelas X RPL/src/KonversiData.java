@@ -1,4 +1,3 @@
-
 public class KonversiData {
     public static void main(String[] args) {
         System.out.println("Belajar Konversi Data");
